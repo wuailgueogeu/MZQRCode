@@ -125,7 +125,7 @@ public struct MZQRCodeManager {
     
     private static func currentWindow() -> UIWindow? {
         let app = UIApplication.shared
-        if let window = app.delegate?.window {
+        if let window = app.windows.last(where: \.isKeyWindow) {
             return window
         } else {
             return app.keyWindow

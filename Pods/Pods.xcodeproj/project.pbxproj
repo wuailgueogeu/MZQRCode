@@ -7,20 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		01E4C6FE0C8F50DE291BA2BAD40C3A74 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		1BBC7CDFC5E80B324D431A279FF50E9D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		29BA53EC64B0BDEE3E273E1D1E9C341F /* Pods-MZQRCode-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 37FF8F1D42A4866CC27E71D6F51D5751 /* Pods-MZQRCode-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		30FB6396E9041EDA62046BD9AB3C9F10 /* MZAuthorization.swift in Sources */ = {isa = PBXBuildFile; fileRef = C338F8E6357EE7AFF3A68F8D7DA26F06 /* MZAuthorization.swift */; };
-		3683C3F960F59DA55509E1810C700B6E /* Localized.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01CB6E678B553E24F31172C282EBC0F /* Localized.swift */; };
-		3866D2409195246C4DA455207BCB72AD /* Pods-MZQRCode-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EEBEF59EDD0EAFFE8DCC990D5C527A9D /* Pods-MZQRCode-dummy.m */; };
-		48A41B4143F567F2D16CEB4D608B9CD0 /* MZAuthorization.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 0210C13286BF268FDD6BF4B0EA660224 /* MZAuthorization.bundle */; };
-		4F5236508784A33DFE9D5B7F5DA6C71E /* MZAuthorization-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 754CBBAA509B283DE3CB79FA62A20E56 /* MZAuthorization-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CCAF3BAA6AD2B1CA530A6B0B65C13C62 /* MZAuthorization-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CC8281D56FEB6D192A37F1C70F4D2F57 /* MZAuthorization-dummy.m */; };
-		D80F7FDAFCD76716337E5BC2F978F71B /* MZAuthorizationTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1711D189064EC304E6F7206A136D28D3 /* MZAuthorizationTool.swift */; };
+		021C110ADE735E346333B3DEB596D817 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 384DDA2CB25005BD6479B5987C619DD4 /* Foundation.framework */; };
+		0514283CFEE042EF45B32FB0BD55DEB2 /* MZAuthorization-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 754CBBAA509B283DE3CB79FA62A20E56 /* MZAuthorization-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4BFEFA405214A1F1563C5CF9E447F795 /* MZAuthorization-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CC8281D56FEB6D192A37F1C70F4D2F57 /* MZAuthorization-dummy.m */; };
+		5A2C2BF1D696BF05F786883CC72BE838 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 384DDA2CB25005BD6479B5987C619DD4 /* Foundation.framework */; };
+		63ED5C1E8AF8BFCEB68440E7F55839CE /* MZAuthorization.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 0210C13286BF268FDD6BF4B0EA660224 /* MZAuthorization.bundle */; };
+		82E3376FD1675796D754EDAE06D4510F /* MZAuthorization.swift in Sources */ = {isa = PBXBuildFile; fileRef = C338F8E6357EE7AFF3A68F8D7DA26F06 /* MZAuthorization.swift */; };
+		8627BD8E7BCC174AEFCF7E68FEC49E91 /* Localized.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01CB6E678B553E24F31172C282EBC0F /* Localized.swift */; };
+		9EBA6314D2CE1F5E601A33135D8D3EB3 /* MZAuthorizationTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1711D189064EC304E6F7206A136D28D3 /* MZAuthorizationTool.swift */; };
+		E0341104B375B249782B089A7BF37078 /* Pods-MZQRCode-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 37FF8F1D42A4866CC27E71D6F51D5751 /* Pods-MZQRCode-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FFE33C91719D4C296CC1DD0554360128 /* Pods-MZQRCode-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EEBEF59EDD0EAFFE8DCC990D5C527A9D /* Pods-MZQRCode-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		5962BC42AF01A20010C139C9BC1D4426 /* PBXContainerItemProxy */ = {
+		FD70BA50A1A22CED43C3511ADDE230E6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -41,9 +41,9 @@
 		342072883735B27009727BC19D27B77F /* MZAuthorization.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MZAuthorization.release.xcconfig; sourceTree = "<group>"; };
 		36175C6BE6A597561452ED80060E5666 /* Pods-MZQRCode.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MZQRCode.release.xcconfig"; sourceTree = "<group>"; };
 		37FF8F1D42A4866CC27E71D6F51D5751 /* Pods-MZQRCode-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MZQRCode-umbrella.h"; sourceTree = "<group>"; };
+		384DDA2CB25005BD6479B5987C619DD4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		3A30E4B85578E535E09121B51CFC3890 /* Pods-MZQRCode-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MZQRCode-frameworks.sh"; sourceTree = "<group>"; };
 		65B718BF9627DA484211430C7B6BB051 /* MZAuthorization */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MZAuthorization; path = MZAuthorization.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		754CBBAA509B283DE3CB79FA62A20E56 /* MZAuthorization-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MZAuthorization-umbrella.h"; sourceTree = "<group>"; };
 		763F414B8C8C79C2F3EE0D7915AB9D0F /* Pods-MZQRCode.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MZQRCode.debug.xcconfig"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
@@ -57,19 +57,19 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		27FD570CB0583C32C6A4587586849902 /* Frameworks */ = {
+		D5F2E391AB28A0A9C9C694038C023E1D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				01E4C6FE0C8F50DE291BA2BAD40C3A74 /* Foundation.framework in Frameworks */,
+				021C110ADE735E346333B3DEB596D817 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9AE7DF6007EA231C3491B0B83E7FFA32 /* Frameworks */ = {
+		E7B9B9E94744A38E244037D54AFEE936 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1BBC7CDFC5E80B324D431A279FF50E9D /* Foundation.framework in Frameworks */,
+				5A2C2BF1D696BF05F786883CC72BE838 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -121,14 +121,6 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */,
-			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
 		B2D9B5B90A2F88FBFC01B127E2CC74B8 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
@@ -176,27 +168,35 @@
 		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				578452D2E740E91742655AC8F1636D1F /* iOS */,
+				E4801F62A6B08CD9B5410329F1A18FDE /* iOS */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E4801F62A6B08CD9B5410329F1A18FDE /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				384DDA2CB25005BD6479B5987C619DD4 /* Foundation.framework */,
+			);
+			name = iOS;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		4243E0E3F1E5CB086C9AA8C7094AA502 /* Headers */ = {
+		2CE020136AD9FB1A492BED9E382D5717 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4F5236508784A33DFE9D5B7F5DA6C71E /* MZAuthorization-umbrella.h in Headers */,
+				0514283CFEE042EF45B32FB0BD55DEB2 /* MZAuthorization-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C20DA00756625ACFC5FBF7AD12F19AF6 /* Headers */ = {
+		FFBC8E9A3CC1A86B8B5A2E63DB21B986 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				29BA53EC64B0BDEE3E273E1D1E9C341F /* Pods-MZQRCode-umbrella.h in Headers */,
+				E0341104B375B249782B089A7BF37078 /* Pods-MZQRCode-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -205,17 +205,17 @@
 /* Begin PBXNativeTarget section */
 		24134076C19FADEDAF756B32A1D4F8B0 /* Pods-MZQRCode */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 584F3BC315E494496773694AA3DD57E4 /* Build configuration list for PBXNativeTarget "Pods-MZQRCode" */;
+			buildConfigurationList = F251137133454B180919D8DD935528CB /* Build configuration list for PBXNativeTarget "Pods-MZQRCode" */;
 			buildPhases = (
-				C20DA00756625ACFC5FBF7AD12F19AF6 /* Headers */,
-				27CD41A7DC31E38C1984567FD78162AA /* Sources */,
-				27FD570CB0583C32C6A4587586849902 /* Frameworks */,
-				7452255DBD0702D339E9B7A87AFCAEBD /* Resources */,
+				FFBC8E9A3CC1A86B8B5A2E63DB21B986 /* Headers */,
+				80FAE5AE55F35F988393F3A2373F6B42 /* Sources */,
+				E7B9B9E94744A38E244037D54AFEE936 /* Frameworks */,
+				D1868B6D1ED8514FD162F2AAF0818C85 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				9EDF202494A82AF37EBCCFD171442B31 /* PBXTargetDependency */,
+				1827E0C6C1FCE2BBBEF43741D1766FB5 /* PBXTargetDependency */,
 			);
 			name = "Pods-MZQRCode";
 			productName = Pods_MZQRCode;
@@ -224,12 +224,12 @@
 		};
 		861CC6B8F5BA46E437F88676C70980C2 /* MZAuthorization */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 84695D0895A379A291BD4B394564150C /* Build configuration list for PBXNativeTarget "MZAuthorization" */;
+			buildConfigurationList = 23F59CA96783D7E60E3A685F2A3AA06B /* Build configuration list for PBXNativeTarget "MZAuthorization" */;
 			buildPhases = (
-				4243E0E3F1E5CB086C9AA8C7094AA502 /* Headers */,
-				4D4C5B8111CFEFE426B22492583B57ED /* Sources */,
-				9AE7DF6007EA231C3491B0B83E7FFA32 /* Frameworks */,
-				244BBBAFFB3C09D508FCC534E6E29D79 /* Resources */,
+				2CE020136AD9FB1A492BED9E382D5717 /* Headers */,
+				279CC02A26DBB8450ED293945734C289 /* Sources */,
+				D5F2E391AB28A0A9C9C694038C023E1D /* Frameworks */,
+				971BFF4326228281512D4CDB6158F2B0 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -246,8 +246,8 @@
 		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1300;
-				LastUpgradeCheck = 1300;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 13.0";
@@ -258,6 +258,8 @@
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
+			minimizedProjectReferenceProxies = 0;
+			preferredProjectObjectVersion = 77;
 			productRefGroup = 0B977994A35EABC668940FD17F803860 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -269,15 +271,15 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		244BBBAFFB3C09D508FCC534E6E29D79 /* Resources */ = {
+		971BFF4326228281512D4CDB6158F2B0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				48A41B4143F567F2D16CEB4D608B9CD0 /* MZAuthorization.bundle in Resources */,
+				63ED5C1E8AF8BFCEB68440E7F55839CE /* MZAuthorization.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7452255DBD0702D339E9B7A87AFCAEBD /* Resources */ = {
+		D1868B6D1ED8514FD162F2AAF0818C85 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -287,42 +289,41 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		27CD41A7DC31E38C1984567FD78162AA /* Sources */ = {
+		279CC02A26DBB8450ED293945734C289 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3866D2409195246C4DA455207BCB72AD /* Pods-MZQRCode-dummy.m in Sources */,
+				8627BD8E7BCC174AEFCF7E68FEC49E91 /* Localized.swift in Sources */,
+				82E3376FD1675796D754EDAE06D4510F /* MZAuthorization.swift in Sources */,
+				4BFEFA405214A1F1563C5CF9E447F795 /* MZAuthorization-dummy.m in Sources */,
+				9EBA6314D2CE1F5E601A33135D8D3EB3 /* MZAuthorizationTool.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4D4C5B8111CFEFE426B22492583B57ED /* Sources */ = {
+		80FAE5AE55F35F988393F3A2373F6B42 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3683C3F960F59DA55509E1810C700B6E /* Localized.swift in Sources */,
-				30FB6396E9041EDA62046BD9AB3C9F10 /* MZAuthorization.swift in Sources */,
-				CCAF3BAA6AD2B1CA530A6B0B65C13C62 /* MZAuthorization-dummy.m in Sources */,
-				D80F7FDAFCD76716337E5BC2F978F71B /* MZAuthorizationTool.swift in Sources */,
+				FFE33C91719D4C296CC1DD0554360128 /* Pods-MZQRCode-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		9EDF202494A82AF37EBCCFD171442B31 /* PBXTargetDependency */ = {
+		1827E0C6C1FCE2BBBEF43741D1766FB5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = MZAuthorization;
 			target = 861CC6B8F5BA46E437F88676C70980C2 /* MZAuthorization */;
-			targetProxy = 5962BC42AF01A20010C139C9BC1D4426 /* PBXContainerItemProxy */;
+			targetProxy = FD70BA50A1A22CED43C3511ADDE230E6 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		1E19C422E3630D532C56D32F90BDFF6C /* Release */ = {
+		06DFD3B6DA86476F5EE427ADE561169C /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 36175C6BE6A597561452ED80060E5666 /* Pods-MZQRCode.release.xcconfig */;
+			baseConfigurationReference = 2531E6047D6621D72F9EA945373557C2 /* MZAuthorization.debug.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -331,7 +332,11 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-MZQRCode/Pods-MZQRCode-Info.plist";
+				ENABLE_MODULE_VERIFIER = NO;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GCC_PREFIX_HEADER = "Target Support Files/MZAuthorization/MZAuthorization-prefix.pch";
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = "Target Support Files/MZAuthorization/MZAuthorization-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -339,15 +344,52 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-MZQRCode/Pods-MZQRCode.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				MODULEMAP_FILE = "Target Support Files/MZAuthorization/MZAuthorization.modulemap";
+				PRODUCT_MODULE_NAME = MZAuthorization;
+				PRODUCT_NAME = MZAuthorization;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_INSTALL_OBJC_HEADER = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		071F9AFCDBAD655E7353F1D82205119D /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 342072883735B27009727BC19D27B77F /* MZAuthorization.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_MODULE_VERIFIER = NO;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GCC_PREFIX_HEADER = "Target Support Files/MZAuthorization/MZAuthorization-prefix.pch";
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = "Target Support Files/MZAuthorization/MZAuthorization-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/MZAuthorization/MZAuthorization.modulemap";
+				PRODUCT_MODULE_NAME = MZAuthorization;
+				PRODUCT_NAME = MZAuthorization;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_INSTALL_OBJC_HEADER = YES;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -421,7 +463,7 @@
 			};
 			name = Debug;
 		};
-		3624CD069E7F7DC1BD38E675E8B300FB /* Debug */ = {
+		BBEE8709E4AB7C1C4CC41FCB0C55FFC2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 763F414B8C8C79C2F3EE0D7915AB9D0F /* Pods-MZQRCode.debug.xcconfig */;
 			buildSettings = {
@@ -434,6 +476,8 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_MODULE_VERIFIER = NO;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				INFOPLIST_FILE = "Target Support Files/Pods-MZQRCode/Pods-MZQRCode-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -456,41 +500,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
-		};
-		7F45A88DCCA033D3BFCB91B576A5A6D7 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 342072883735B27009727BC19D27B77F /* MZAuthorization.release.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/MZAuthorization/MZAuthorization-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/MZAuthorization/MZAuthorization-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MODULEMAP_FILE = "Target Support Files/MZAuthorization/MZAuthorization.modulemap";
-				PRODUCT_MODULE_NAME = MZAuthorization;
-				PRODUCT_NAME = MZAuthorization;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
 		};
 		CA547D2C7E9A8A153DC2B27FBE00B112 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -554,10 +563,11 @@
 			};
 			name = Release;
 		};
-		D2CD528FE6355849FE37B8D802B657E6 /* Debug */ = {
+		ECBF6D739B18897026C9E5E56C1F1C1B /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2531E6047D6621D72F9EA945373557C2 /* MZAuthorization.debug.xcconfig */;
+			baseConfigurationReference = 36175C6BE6A597561452ED80060E5666 /* Pods-MZQRCode.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -566,8 +576,9 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/MZAuthorization/MZAuthorization-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/MZAuthorization/MZAuthorization-Info.plist";
+				ENABLE_MODULE_VERIFIER = NO;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				INFOPLIST_FILE = "Target Support Files/Pods-MZQRCode/Pods-MZQRCode-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -575,22 +586,34 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MODULEMAP_FILE = "Target Support Files/MZAuthorization/MZAuthorization.modulemap";
-				PRODUCT_MODULE_NAME = MZAuthorization;
-				PRODUCT_NAME = MZAuthorization;
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-MZQRCode/Pods-MZQRCode.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Debug;
+			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		23F59CA96783D7E60E3A685F2A3AA06B /* Build configuration list for PBXNativeTarget "MZAuthorization" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				06DFD3B6DA86476F5EE427ADE561169C /* Debug */,
+				071F9AFCDBAD655E7353F1D82205119D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -600,20 +623,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		584F3BC315E494496773694AA3DD57E4 /* Build configuration list for PBXNativeTarget "Pods-MZQRCode" */ = {
+		F251137133454B180919D8DD935528CB /* Build configuration list for PBXNativeTarget "Pods-MZQRCode" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3624CD069E7F7DC1BD38E675E8B300FB /* Debug */,
-				1E19C422E3630D532C56D32F90BDFF6C /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		84695D0895A379A291BD4B394564150C /* Build configuration list for PBXNativeTarget "MZAuthorization" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				D2CD528FE6355849FE37B8D802B657E6 /* Debug */,
-				7F45A88DCCA033D3BFCB91B576A5A6D7 /* Release */,
+				BBEE8709E4AB7C1C4CC41FCB0C55FFC2 /* Debug */,
+				ECBF6D739B18897026C9E5E56C1F1C1B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
